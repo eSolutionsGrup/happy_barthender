@@ -10,8 +10,10 @@ Scope
 - 
 
 Implement a smart device that can create cocktails automatically
+Repos
+https://github.com/eSolutionsGrup/happy_barthender - device functionality
+https://github.com/eSolutionsGrup/happy_barthender_pour4me - mobile app
 
-This repo contains the device functionality
 
 TODO
 - 
