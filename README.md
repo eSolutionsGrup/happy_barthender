@@ -1,7 +1,7 @@
 Happy Barthender
 - 
 A 24 hours hackathon project build by a team of 4
-- @CristianPopesc
+- @CriPstian
 - @IurieStarciuc
 - @AdrianMazga
 - @VirgilBorcea
