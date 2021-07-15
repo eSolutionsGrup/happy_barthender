@@ -1,0 +1,7 @@
+.pioenvs
+.piolibdeps
+cmake-build-debug
+CMakeListsPrivate.txt
+CMakeLists.txt
+.travis.yml
+.idea
